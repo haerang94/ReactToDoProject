@@ -1,6 +1,6 @@
 ## Branch
 
-Each Branch contains each step of development and functions.
+Each Branch contains each step of developing functions.
 
 - 각 기능의 구현을 브랜치 별로 구현해놓았습니다.
 
